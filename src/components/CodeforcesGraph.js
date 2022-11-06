@@ -72,7 +72,7 @@ function CodeforcesGraph() {
   return (
     <>
       <br />
-      <p style={{ color: "#c5c6c7" }}>
+      <p style={{ color: "#ffffff" }}>
         Codeforces Ratings:{" "}
         <p style={{ color: "white", display: "inline" }}>{mxRating}</p>{" "}
         <i>

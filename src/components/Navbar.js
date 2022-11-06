@@ -60,7 +60,7 @@ class Navbar extends Component {
           inverted
           style={{
             borderRadius: "0",
-            background: "#1e2022ea",
+            background: "#051DAE",
 
             boxShadow: "0 0 5px 0px white",
           }}

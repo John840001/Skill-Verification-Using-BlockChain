@@ -4,7 +4,7 @@
 }
 
 .notifications {
-  background: rgba(31, 30, 30, 0.581);
+  background: #051DAE;
   width: 85%;
   margin-left: auto;
   margin-right: auto;
@@ -24,7 +24,7 @@
 }
 
 .notification-sidechat-subheading {
-  color: #c5c6c7 !important;
+  color: #ffffff !important;
 }
 
 .header-row > th {
@@ -36,7 +36,7 @@
 }
 
 .header-row-cell {
-  border-bottom: 1px solid #c5c6c7 !important;
+  border-bottom: 1px solid #ffffff !important;
 }
 
 .row-cell-container :hover {
